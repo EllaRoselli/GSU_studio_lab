@@ -3,10 +3,12 @@ channels:
   - conda-forge
 dependencies:
   - python=3.10
-  - pandas
+  - numpy<2.0
+  - pandas<2.0
+  - scipy
   - plotly
   - ipywidgets
   - anywidget
   - pip
   - pip:
-    - ezmist
+    - git+https://github.com/mfouesneau/ezmist.git
