@@ -1,16 +1,17 @@
 name: stellar-isochrone-env
 channels:
   - conda-forge
+  - defaults
 dependencies:
   - python=3.10
   - numpy
+  - numba
   - pandas
   - scipy
+  - pytables
   - plotly
   - ipywidgets
   - anywidget
   - pip
   - pip:
-    - mistery
-
-
+    - isochrones
