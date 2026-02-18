@@ -134,7 +134,7 @@
   <meta name="current-catalog-service-hash" content="40dc28bd654b20f337468a532ff456ed5863889cfbb4e982b793597321d48d3f">
 
 
-  <meta name="request-id" content="CCF0:44DB1:2631496:322DF21:699542E5" data-pjax-transient="true"/><meta name="html-safe-nonce" content="822b3af385f036b8b96f461d2e84f5871aaf560a78b4d2361719350e4726b8cd" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJDQ0YwOjQ0REIxOjI2MzE0OTY6MzIyREYyMTo2OTk1NDJFNSIsInZpc2l0b3JfaWQiOiI2MjY1MzQ3Njk0NDQyOTIyNzI1IiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="d9932d7d40e068f2b2e2d3323b369f17b2214933cc2fc8ccba9438b38410e162" data-pjax-transient="true"/>
+  <meta name="request-id" content="CCF0:44DB1:263154A:322DFFD:699542E5" data-pjax-transient="true"/><meta name="html-safe-nonce" content="a9d7ebc34b626e59f557506d5eecca9b5a0e8c8e021238ebfabbe54498935e8b" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJDQ0YwOjQ0REIxOjI2MzE1NEE6MzIyREZGRDo2OTk1NDJFNSIsInZpc2l0b3JfaWQiOiIzNjY1MDkxNjY5Mjk1MTg2NjYxIiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="a22993a921045454bb7c29352a452132fb755ddbf3a6e75ae7ec79f5d20e5540" data-pjax-transient="true"/>
 
 
 
@@ -700,7 +700,7 @@
   
 </div>
       <scrollable-region data-labelled-by="feedback-dialog-title">
-        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="BoRRtaF8jqhe7WDiGWPuneaVrZZUk05WN8NYbNKBhz9OMuM3/eYcl0ghB0ArZy3Uf6WXB+kdKvkaN2gb6gjn1Q==" />
+        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="azD0oP4Ul5ZlPFP9fynks0chzJMBtP9080Rh0Ly2U6J2nIOHMtFBFi0JF7s707XEPE7c4AAWgejXqfnxiRK4Ww==" />
           <p>We read every piece of feedback, and take your input very seriously.</p>
           <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
           <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
@@ -738,7 +738,7 @@
         <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
         <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="hLekv2bNuZG7QM284h/EFjU4dw52XklzriRlv446ewQWyMtRGEFf4TRICELjDFN8crda0E7V1ZGRAmK7zDrhfQ==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="stZFVTvu/ACAztO9fqD3/3sHSDMh7txEN4Ho/nZdEdAoXac5FJl1dTkHmKVLi8PUyUDO/SU+CqFG9PsUofdthQ==" />
           <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
           <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
@@ -756,7 +756,7 @@
                 placeholder="github-ruby"
                 required
                 maxlength="50">
-              <input type="hidden" data-csrf="true" value="dseBsCb4qJys3WWb3tjkBwMkbELcrMTyHEuHrmd0sFk0gz46q181U2dKKGqS28vQBbeWfs8Sfb2KsGCEzxR+Kw==" />
+              <input type="hidden" data-csrf="true" value="419HPN4W6TrQPM15IqZIGY5qgx0treh1OKtJFLHxcmBFEOfM1jxRCOnbjql/ohkTYMp/Mxn1n5lIk7+17wFBaw==" />
             </auto-check>
           </div>
 
