@@ -6,10 +6,9 @@ dependencies:
   - numpy<2.0
   - pandas<2.0
   - scipy
-  - astropy
   - plotly
   - ipywidgets
   - anywidget
   - pip
   - pip:
-    - git+https://github.com/mfouesneau/ezmist.git
+    - minimint
