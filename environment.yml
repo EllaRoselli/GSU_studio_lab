@@ -8,6 +8,7 @@ dependencies:
   - scipy
   - numba
   - pytables
+  - mistery
   - plotly
   - ipywidgets
   - anywidget
