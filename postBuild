@@ -1,0 +1,4 @@
+#!/bin/bash
+# Pre-initialize MIST grids so they are ready when students open the notebook
+python -c "from isochrones.mist import MIST_Isochrone; MIST_Isochrone()"
+python -c "from isochrones.mist import MIST_EvolutionTrack; MIST_EvolutionTrack()"
